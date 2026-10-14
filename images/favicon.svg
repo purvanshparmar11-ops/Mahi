@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" width="36" height="36">
+  <!-- Bhramani Infotech Emblem Favicon -->
+  <rect width="36" height="36" rx="8" fill="#ffffff"/>
+  <g fill="none" stroke="#f26343" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" transform="translate(18, 18)">
+    <path d="M0,0 C-5,-4 -8,-10 0,-14 C8,-10 5,-4 0,0 Z" />
+    <path d="M0,0 C-5,4 -8,10 0,14 C8,10 5,4 0,0 Z" />
+    <path d="M0,0 C-4,-5 -10,-8 -14,0 C-10,8 -4,5 0,0 Z" />
+    <path d="M0,0 C4,-5 10,-8 14,0 C10,8 4,5 0,0 Z" />
+  </g>
+</svg>
